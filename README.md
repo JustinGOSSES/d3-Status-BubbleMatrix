@@ -18,7 +18,7 @@ d3.js v3 code for creating a bubble matrix plot - can be used for visualizing st
 
 ## Example Image
 Inline-style: 
-![alt text](https://github.com/JustinGOSSES/d3.BubbleMatrix/blob/master/images/Screen%20Shot%202017-01-09%20at%2011.47.10%20AM.png "Example Image")
+![alt text](https://github.com/JustinGOSSES/d3-Status-BubbleMatrix/blob/master/images/Screen%20Shot%202017-01-09%20at%2011.47.10%20AM.png "Example Image")
 
 ### Inspired by:
  gusgard's <a href=" https://github.com/gusgard/d3-bubble-matrix">ad3-bubble-matrix</a>
