@@ -10,10 +10,11 @@ d3.js v3 code for creating a bubble matrix plot - can be used for visualizing st
   - Information can be conveyed through:
     - <i>color of bubbles</i> (red = trouble, green is good, yellow is caution, gray is no data)
     - <i>size of bubbles</i> (longer in red or yellow the larger the size)
-    - <i>color of square background behind bubbles</i> (a status that changed color relative to previous has white background)
-    - <i>names to left on y-axis</i> (categorical or unique names)
-    - <i>names to right on y-axis</i> (categorical unique names)
-    - <i>names above on x-axis</i> (usually time)
+    - <i>color of square background behind bubbles</i> (circle that changed color relative to previous has white background)
+    - <i>order of items vertically </i> (rows can be sorted by an additional dimension or one of the y-axis labels)
+    - <i>labels to left on y-axis</i> (categorical or unique names)
+    - <i>labels to right on y-axis</i> (categorical unique names)
+    - <i>labels above on x-axis</i> (usually time)
 
 ## Example Image
 Inline-style: 
