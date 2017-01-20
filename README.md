@@ -8,12 +8,12 @@ d3.js v3 code for creating a bubble matrix plot - can be used for visualizing st
 ## Purpose
   - Provide d3.js code that will make a bubble matrix such that information on status over time of multiple items can be conveyed efficiently. 
   - Information can be conveyed through:
-    - color of bubbles (example: red = trouble, green is good, yellow is caution, gray is no data)
-    - size of bubbles (longer in red or yellow the larger the size)
-    - color of square background behind bubbles (a status that changed color relative to previous has white background)
-    - names to left on y-axis (categorical or unique names)
-    - names to right on y-axis (categorical unique names)
-    - names above on x-axis (usually time)
+    - <i>color of bubbles</i> (red = trouble, green is good, yellow is caution, gray is no data)
+    - <i>size of bubbles</i> (longer in red or yellow the larger the size)
+    - <i>color of square background behind bubbles</i> (a status that changed color relative to previous has white background)
+    - <i>names to left on y-axis</i> (categorical or unique names)
+    - <i>names to right on y-axis</i> (categorical unique names)
+    - <i>names above on x-axis</i> (usually time)
 
 ## Example Image
 Inline-style: 
