@@ -21,7 +21,7 @@ Inline-style:
 ![alt text](https://github.com/JustinGOSSES/d3-Status-BubbleMatrix/blob/master/images/Screen%20Shot%202017-01-09%20at%2011.47.10%20AM.png "Example Image")
 
 ### Inspired by:
- gusgard's <a href=" https://github.com/gusgard/d3-bubble-matrix">ad3-bubble-matrix</a>
+ gusgard's [d3-bubble-matrix](https://github.com/gusgard/d3-bubble-matrix)
  
 ## Code Structure
 
