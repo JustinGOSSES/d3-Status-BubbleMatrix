@@ -1,9 +1,9 @@
-# d3.BubbleMatrix
+# d3-Status-BubbleMatrix
 d3.js v3 code for creating a bubble matrix plot - can be used for visualizing status of items over time
 
 (this documentation is in progress)
 
-## Main File is Bubble_Multi.js
+## Main File is StatusBubbleMatrix.js
 
 ## Purpose
   - Provide d3.js code that will make a bubble matrix such that information on status over time of multiple items can be conveyed efficiently. 
@@ -20,6 +20,9 @@ d3.js v3 code for creating a bubble matrix plot - can be used for visualizing st
 Inline-style: 
 ![alt text](https://github.com/JustinGOSSES/d3.BubbleMatrix/blob/master/images/Screen%20Shot%202017-01-09%20at%2011.47.10%20AM.png "Example Image")
 
+### Inspired by:
+ gusgard's <a href=" https://github.com/gusgard/d3-bubble-matrix">ad3-bubble-matrix</a>
+ 
 ## Code Structure
 
 ## Data Structure Assumptions
